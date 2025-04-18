@@ -1,7 +1,6 @@
 # 👩🏻‍💻 ¡Hola! Soy Ana
 
-🚀 Desarrolladora web en formación | 🌱 Apasionada por la tecnología, la ciencia y el arte 
-🎓 Estudiante de DAW | 💡 Construyendo proyectos con propósito | 💻 Aprendiendo cada día
+🚀 Desarrolladora web en formación | 🌱 Apasionada por la tecnología, la ciencia y el arte | 🎓 Estudiante de DAW | 💡 Construyendo proyectos con propósito | 💻 Aprendiendo cada día
 
 ---
 
